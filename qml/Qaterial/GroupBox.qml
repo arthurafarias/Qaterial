@@ -6,7 +6,7 @@
 // Qt
 import QtQuick 2.12
 import QtQuick.Templates 2.12 as T
-import QtGraphicalEffects 1.12
+import Qt5Compat.GraphicalEffects
 
 // Qaterial
 import Qaterial 1.0 as Qaterial
